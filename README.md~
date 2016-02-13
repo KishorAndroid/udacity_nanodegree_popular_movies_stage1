@@ -1,0 +1,7 @@
+# udacity_nanodegree_popular_movies_stage1
+
+## Insert your api key in /res/strings.xml
+
+## <resources>
+##    <string name="API_KEY">YOUR_API_KEY_HERE</string>
+## </resources>
